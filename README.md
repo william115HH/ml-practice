@@ -7,7 +7,7 @@ Linear regression from scratch with NumPy: gradient descent, feature scaling, an
 ```
 python3 -m venv .venv
 source .venv/bin/activate
-pip install numpy pytest
+pip install numpy pandas pytest
 ```
 
 ## Run
